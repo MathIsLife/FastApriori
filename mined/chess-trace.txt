@@ -1,0 +1,84 @@
+Dataset: chess
+===================
+
+Minimum support percentage: 80
+Number of transactions: 3196
+Minimum support count: 2557
+
+Iteration: 2
+-------------
+Candidates generated: 171
+New frequent item sets: 141
+Total number of frequent item sets: 141
+
+Iteration: 3
+-------------
+Candidates generated: 670
+New frequent item sets: 566
+Total number of frequent item sets: 707
+
+Iteration: 4
+-------------
+Candidates generated: 1601
+New frequent item sets: 1383
+Total number of frequent item sets: 2090
+
+Iteration: 5
+-------------
+Candidates generated: 2499
+New frequent item sets: 2130
+Total number of frequent item sets: 4220
+
+Iteration: 6
+-------------
+Candidates generated: 2524
+New frequent item sets: 2104
+Total number of frequent item sets: 6324
+
+Iteration: 7
+-------------
+Candidates generated: 1720
+New frequent item sets: 1314
+Total number of frequent item sets: 7638
+
+Iteration: 8
+-------------
+Candidates generated: 749
+New frequent item sets: 481
+Total number of frequent item sets: 8119
+
+Iteration: 9
+-------------
+Candidates generated: 189
+New frequent item sets: 85
+Total number of frequent item sets: 8204
+
+Iteration: 10
+-------------
+Candidates generated: 22
+New frequent item sets: 4
+Total number of frequent item sets: 8208
+
+  Command being timed: "./a.out"
+  User time (seconds): 23.75
+  System time (seconds): 0.00
+  Percent of CPU this job got: 96%
+  Elapsed (wall clock) time (h:mm:ss or m:ss): 0:24.60
+  Average shared text size (kbytes): 0
+  Average unshared data size (kbytes): 0
+  Average stack size (kbytes): 0
+  Average total size (kbytes): 0
+  Maximum resident set size (kbytes): 5984
+  Average resident set size (kbytes): 0
+  Major (requiring I/O) page faults: 0
+  Minor (reclaiming a frame) page faults: 1010
+  Voluntary context switches: 2
+  Involuntary context switches: 4362
+  Swaps: 0
+  File system inputs: 0
+  File system outputs: 272
+  Socket messages sent: 0
+  Socket messages received: 0
+  Signals delivered: 0
+  Page size (bytes): 4096
+  Exit status: 0
